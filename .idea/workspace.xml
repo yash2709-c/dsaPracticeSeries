@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0e28626-caa4-44a4-befc-3df0910d392a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="225zZLDn3iWQ63haSmK2L442uWI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newBSTSeries.Main" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newBSTSeries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="circularlinkedlistpackage.Main" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="circularlinkedlistpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doublylinkedlistpackage.Main" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="doublylinkedlistpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.solveIt.Main" />
+      <module name="dataStructures" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0e28626-caa4-44a4-befc-3df0910d392a" name="Default Changelist" comment="" />
+      <created>1639142290186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639142290186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="867" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1642695152344">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="867" y="120" key="#com.intellij.ide.util.MemberChooser/0.40.1366.728@0.40.1366.728" timestamp="1642695152344" />
+    <state x="463" y="159" key="FileChooserDialogImpl" timestamp="1641744900919">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="463" y="159" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1641744900919" />
+    <state width="489" height="164" key="GridCell.Tab.0.bottom" timestamp="1642714088501">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="489" height="164" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1642714088501" />
+    <state width="489" height="164" key="GridCell.Tab.0.center" timestamp="1642714088501">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="489" height="164" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1642714088501" />
+    <state width="489" height="164" key="GridCell.Tab.0.left" timestamp="1642714088501">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="489" height="164" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1642714088501" />
+    <state width="489" height="164" key="GridCell.Tab.0.right" timestamp="1642714088501">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="489" height="164" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1642714088501" />
+    <state width="661" height="174" key="GridCell.Tab.1.bottom" timestamp="1642700754378">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="661" height="174" key="GridCell.Tab.1.bottom/0.40.1366.728@0.40.1366.728" timestamp="1642700754378" />
+    <state width="661" height="174" key="GridCell.Tab.1.center" timestamp="1642700754378">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="661" height="174" key="GridCell.Tab.1.center/0.40.1366.728@0.40.1366.728" timestamp="1642700754378" />
+    <state width="661" height="174" key="GridCell.Tab.1.left" timestamp="1642700754378">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="661" height="174" key="GridCell.Tab.1.left/0.40.1366.728@0.40.1366.728" timestamp="1642700754378" />
+    <state width="661" height="174" key="GridCell.Tab.1.right" timestamp="1642700754378">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="661" height="174" key="GridCell.Tab.1.right/0.40.1366.728@0.40.1366.728" timestamp="1642700754378" />
+    <state x="758" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1641744875698">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="758" y="228" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1641744875698" />
+    <state x="860" y="93" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1641541599710">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="860" y="93" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.1366.728@0.40.1366.728" timestamp="1641541599710" />
+    <state x="65" y="40" key="new project wizard" timestamp="1641744986593">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="65" y="40" key="new project wizard/0.40.1366.728@0.40.1366.728" timestamp="1641744986593" />
+    <state x="339" y="182" key="run.anything.popup" timestamp="1642369440102">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="339" y="182" key="run.anything.popup/0.40.1366.728@0.40.1366.728" timestamp="1642369440102" />
+    <state x="725" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1641193665385">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="725" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1641193665385" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/academy/learnprogramming/solveIt/SinglyLinkedList.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/academy/learnprogramming/solveIt/Questions.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/academy/learnprogramming/solveIt/BinaryTreeLL.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newBSTSeries/BSTree.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newBSTSeries/BSTree.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newBSTSeries/BSTree.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/newBSTSeries/BSTree.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/circularlinkedlistpackage/CirLinkedList.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/academy/learnprogramming/solveIt/LinkedList.java</url>
+          <line>29</line>
+          <properties class="academy.learnprogramming.solveIt.LinkedList" method="traversalLL">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
